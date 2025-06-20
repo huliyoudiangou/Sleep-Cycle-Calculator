@@ -1,8 +1,8 @@
-## 一、项目名称：[Sleep Cycle Calculator](https://sleep.makifx.com)
+## 一、项目名称：[Sleep Cycle Calculator](https://github.com/huliyoudiangou/Sleep-Cycle-Calculator)
 
 ## 二、项目介绍：
 
-[Sleep Cycle Calculator](https://sleep.makifx.com)是由 gemini 打造的一款运行于cloudflare works 上的，睡眠周期计算器，不管你是想几点起床，还是几点入睡，都能科学的计算出你的睡眠周期
+[Sleep Cycle Calculator](https://github.com/huliyoudiangou/Sleep-Cycle-Calculator)是由 gemini 打造的一款运行于cloudflare works 上的，睡眠周期计算器，不管你是想几点起床，还是几点入睡，都能科学的计算出你的睡眠周期
 
 ## 三、灵感来源：
 
@@ -51,4 +51,4 @@ PS：所有的睡眠计算都是包含一个15分钟入睡的前提，例如：�
 
 #### 8.点击右上角的 保存并部署 (Save and deploy) 按钮。
 
-### 完成！现在，当您访问您的 Worker URL (例如 sleep-calculator.your-subdomain.workers.dev) 时，就会看到功能齐全的睡眠计算器页面了。
+### 完成！现在，当您访问您的 Worker URL 【[测试站](https://sleep.makifx.com/)】就会看到功能齐全的睡眠计算器页面了。
