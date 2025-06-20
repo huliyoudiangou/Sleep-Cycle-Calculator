@@ -1,8 +1,8 @@
-## 一、项目名称：Sleep Cycle Calculator
+## 一、项目名称：[Sleep Cycle Calculator](https://sleep.makifx.com)
 
 ## 二、项目介绍：
 
-由 gemini 打造的一款运行于cloudflare works 上的，睡眠周期计算器，不管你是想几点起床，还是几点入睡，都能科学的计算出你的睡眠周期
+[Sleep Cycle Calculator](https://sleep.makifx.com)是由 gemini 打造的一款运行于cloudflare works 上的，睡眠周期计算器，不管你是想几点起床，还是几点入睡，都能科学的计算出你的睡眠周期
 
 ## 三、灵感来源：
 
